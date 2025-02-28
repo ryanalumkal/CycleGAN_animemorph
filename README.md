@@ -1,6 +1,8 @@
 # Documentation for APS360 Project (ANIMEMORPH)
 Team: Shirley, Justin, Apurva, Ryan
 
+## Final Report
+
 ## Project Description
 The purpose of our project is to generate anime-like characters from a portrait image of a person. Anime, also known
 as Japanese animation, has gained traction specifically in Western communities. Nowadays, through the influence
@@ -27,12 +29,11 @@ to generate a more detailed anime character.
 
 ## Google Drive
 - [All Documents Folder](https://drive.google.com/drive/folders/1PDg4J_7MxYS-TxKTRwGo1Fc7fkfwLWIC?usp=sharing)
-    - [Task Distribution Table and Project Timeline](https://docs.google.com/document/d/1T0UcMWuEQxFJCOZymSNPl3aNyXTEKeT2QPYQ6FgHHPo/edit?usp=sharing)
   
 
 ## Deliverables
-- #### Project Proposal
-    - [Research Notes](https://docs.google.com/document/d/1SK-XpYCsCfwD4wKR6fUZ65NFW1NUrizkudPgrV03NnI/edit?usp=sharing)
-    - [LaTeX Document](https://www.overleaf.com/4453517848hyvhqnhbymfk#2069d3)
+- ### Project Proposal
+- ### Progress Report
+- ### Final Report
 
 
