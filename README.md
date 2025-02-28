@@ -23,10 +23,6 @@ the mapping between human faces and anime styles without needing exact pairs of 
 specific project, we will use a modified version of CycleGAN that incorporates data from annotated facial landmarks
 to generate a more detailed anime character.
 
-## Meeting Minutes
-- [May 29](https://brass-boa-f76.notion.site/Meeting-May-29-5c0df5c6f0194d1b93e68275801a9a31)
-- [May 27](https://brass-boa-f76.notion.site/Meeting-May-27-4747053c92904300a15d3f3bae84e664)
-
 ## Google Drive
 - [All Documents Folder](https://drive.google.com/drive/folders/1PDg4J_7MxYS-TxKTRwGo1Fc7fkfwLWIC?usp=sharing)
   
