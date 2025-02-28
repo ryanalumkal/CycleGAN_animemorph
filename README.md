@@ -1,7 +1,7 @@
 # Documentation for APS360 Project (ANIMEMORPH)
 Team: Shirley, Justin, Apurva, Ryan
 
-## Final Report
+## [Final Report](https://github.com/ryanalumkal/CycleGAN_animemorph/blob/main/APS360_Project_Final_Report.pdf)
 
 ## Project Description
 The purpose of our project is to generate anime-like characters from a portrait image of a person. Anime, also known
@@ -30,6 +30,6 @@ to generate a more detailed anime character.
 ## Deliverables
 - ### Project Proposal
 - ### Progress Report
-- ### Final Report
+- ### [Final Report](https://github.com/ryanalumkal/CycleGAN_animemorph/blob/main/APS360_Project_Final_Report.pdf)
 
 
